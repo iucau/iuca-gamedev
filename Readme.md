@@ -18,13 +18,13 @@ participation grade
 
 View the screen of the instructor's machine
 
-* TBD
+* <https://hangouts.google.com/hangouts/_/ytl/q3genDkOphsJB9XfUTmxCffe2Zc5NPMDXMXiEISxrjU=?hl=en_US&authuser=3>
 
 ## Recordings
 
 View previous class recordings
 
-* TBD
+* <https://www.youtube.com/playlist?list=PLHcEzCb_lW6e3kq-EYQIPvFkjWfFrLQCe>
 
 ## Registration Form
 
