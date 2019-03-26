@@ -76,7 +76,7 @@ match and a new match is automatically started after a short pause.
 your own and with other students. Add icons and a banner to the launcher on
 Windows, macOS, or Linux.
 
-### Task #2
+### or... Task #2
 
 ![Task 2, Breakout](http://i.imgur.com/QT7ZbCp.png)
 
@@ -94,15 +94,7 @@ the game looks and works like a real product ready for release.
 * +20 points for Practice #1
 * +20 points for Practice #2
 * +10 points for Practice #3
-* +20 points for Task #1
-* +26 points for Task #2
-
-You game will be judged subjectively (as on a real market) by an independent
-third-party user without any experiense in game development or software
-engineering.
-
-* +1 if the user likes how your game looks
-* +3 if he likes to play your game
+* +50 points for Task #1, 2
 
 The total number of points will then be converted into a grade.
 
@@ -121,27 +113,4 @@ The total number of points will then be converted into a grade.
 
 ### Deadlines
 
-You will have three weeks from the announcement date to finish your work.
-
-### Submission
-
-#### Option #1
-
-Pack you project directory and send it to the instructor.
-
-#### Option #2
-
-Send a link to a shared directory or an archive file with your project on a file
-sharing service like Google Drive or Dropbox.
-
-#### Option #3
-
-Send a link to a publicly available Git repository with your project. Try to use
-Git to store the development history of your project, not just to submit your
-work. Students with properly maintained repositories will get five extra points
-to their grades.
-
-* Use a proper [.gitignore](https://github.com/github/gitignore/blob/master/Unity.gitignore)
-file.
-* [Configure](http://www.studica.com/blog/how-to-setup-github-with-unity-step-by-step-instructions)
-Unity to work with Git
+You will have the first part of the semester to work on this project.
