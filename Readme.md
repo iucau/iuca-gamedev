@@ -29,3 +29,7 @@ View previous class recordings
 ## Registration Form
 
 * <https://docs.google.com/spreadsheets/d/1psUR37I44aNY5DQq4jx99VpXJasszVHw_Bswul3oyq4/edit?usp=sharing>
+
+## Midterm Sign Up Form
+
+* <https://docs.google.com/spreadsheets/d/1QS5nEU2BKQySUOgh0qXEyoszD-REOWVPVNxwlkFeT5A/edit?usp=sharing>
